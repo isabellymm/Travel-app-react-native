@@ -2,5 +2,5 @@
 
 
 <div align="center">
-<img src="blob:https://web.whatsapp.com/ab158d3a-c9fb-481e-a21c-dcdc96328966" width="500px" />
+<img src="https://user-images.githubusercontent.com/96357748/223878639-9372adf9-5331-4176-94e3-e434fa460303.jpeg" width="500px" />
 </div>
